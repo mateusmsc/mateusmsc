@@ -1,6 +1,6 @@
 ## Mateus Costa 👦🏾
 
-- 🔭 Java Jr developer  
+- 🔭 Java developer  
 - 🌱 I’m currently learning Java 
 - 😄 Pronouns: he/his
 
